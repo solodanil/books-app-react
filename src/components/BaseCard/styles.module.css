@@ -1,0 +1,15 @@
+.card {
+    padding: 16px 20px 20px;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    margin: 0;
+    color: #000000;
+}

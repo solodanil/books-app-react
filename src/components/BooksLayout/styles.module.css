@@ -1,0 +1,8 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    gap: 16px;
+    margin-left: 20px;
+    width: 100%;
+}
